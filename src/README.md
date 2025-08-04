@@ -1,5 +1,9 @@
 # Valheim Valkream Modpack
+
 ![Valheim Valkream Header](https://valkream.com/wp-content/uploads/2024/11/banner_site_web-1-300x147.png)
+
+[Valkream.com](https://valkream.com/)
+
 The Valkream community brings together French-speaking Valheim enthusiasts.
 
 Sharing and mutual support are the key words that define the spirit of the Valkream community.
@@ -34,7 +38,19 @@ Services Offered
 
 Respecting the original developers' ideology is a priority. The pack mode essentially consists of additional mechanics, new creatures, armor, weapons, and all biomes are functional. Guaranteeing a complete and endless experience.
 
+**New Launcher for Easy Installation**
+A new way to install and play Valheim, the new Valkream Launcher installs a standalone version. This version is the Valheim Valkream version.
+The launcher downloads mods directly via Thunderstore and installs them in minutes.
+
+Guarantees adequate download counts on the Thunderstore side.
+
+**Server owner !**
+Would you like your own launcher?
+Our codes are available to the community for free.
+[Valkream Launcher GitHub](https://github.com/Valkream-Inc)
+
 ![Valheim Valkream Gif](https://cdn-longterm.mee6.xyz/plugins/embeds/images/1069689890943545405/0d841f62bfc7775b48a5bc8aea03289c73277c6b124e10d6bf2f16202d7c729e.gif)
 
 Discord: [Valkream Discord](https://discord.gg/zn3TsumtyG) 
-Web Site: [Valkream.com](https://valheim.thunderstore.io/package/Smoothbrain/Groups)
+
+Web Site: [Valkream.com](https://valkream.com/)

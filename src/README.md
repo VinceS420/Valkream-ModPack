@@ -45,7 +45,7 @@ The launcher downloads mods directly via Thunderstore and installs them in minut
 Guarantees adequate download counts on the Thunderstore side.
 
 **Server owner !**
-Would you like your own launcher?
+Would you like to have your own launcher?
 Our codes are available to the community for free.
 [Valkream Launcher GitHub](https://github.com/Valkream-Inc)
 
